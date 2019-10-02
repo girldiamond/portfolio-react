@@ -1,0 +1,32 @@
+// FUNCIONES
+
+//Calcula em
+$browser-context:16;// Default
+@function em($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}em
+}
+
+
+//Calcula em
+// $basefont:16;
+// @function em($target, $context: $basefont) {
+// 	@return ($target / $context) * 1em;
+// }
+
+
+
+
+//calcula porcentaje
+@function calc-percent($target, $container) {
+  @return ($target / $container) * 100%;
+}
+
+//mixin
+
+@mixin font-size($sizeValue: 1.6) {
+  font-size: ($sizeValue * 10) + px;
+  font-size: $sizeValue + rem;
+}
+// p {
+//    @include font-size(1.3);
+// }

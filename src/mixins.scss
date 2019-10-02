@@ -1,0 +1,118 @@
+
+/*@mixin*/
+@mixin center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@mixin menu-hamburguer {
+  position: absolute;
+  display: block;
+  left: 0;
+  width: 50px;
+  height: 4px;
+  background-color: #fff;
+  content: "";
+}
+@mixin my-name {
+  font-family:quicksand;
+  text-transform: uppercase;
+  margin-top:em(20);
+  color: $white;
+}
+@mixin my-job {
+ font-size: 2.0rem;
+ font-weight: bold;
+ color: #000000;
+ margin:10px 0;
+}
+@mixin btn-light{
+  background: $white;
+  color:$textBody;
+  font-family:$fontCentury;
+  font-weight:700;
+  font-size:1.5rem;
+  text-align:center;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+   padding:10px 10px;
+  border-radius: 3px;
+}
+@mixin btn-light-hover{
+  background: $blueColor;
+  color:$white;
+}
+
+@mixin btn-style{
+  background: $deepPink;
+  font-family:$fontCentury;
+  font-weight:700;
+  color:$white;
+  font-size:1.5rem;
+  text-align:center;
+  display:block;
+}
+@mixin btn-style-hover{
+  background: $pinkLight;
+  text-decoration: none;
+}
+@mixin section-style {
+  width:$width;
+  padding:em(40) 0;
+  background:red
+}
+@mixin section-title-light {
+  font-family:$fontCentury;
+  text-align: center;
+  color:$white;
+  margin:em(10) 0 ;
+	font-size: 3.6rem;
+  text-transform:uppercase;
+}
+@mixin section-title-dark {
+  font-family:$fontCentury;
+  text-align: center;
+  color: $textBody;
+  margin:em(10) 0;
+  font-size: 3.6rem;
+  text-transform:uppercase;
+}
+@mixin title-dark{
+  font-size: 1.8rem;
+  font-family: $fontCentury;
+  text-transform: uppercase;
+  margin-bottom: em(26);
+}
+@mixin title-light{
+font-size: 1.8rem;
+font-family: $fontCentury;
+text-transform: uppercase;
+color: $white
+}
+@mixin rotate-image {
+  -webkit-transform: rotateZ(30deg);
+  -ms-transform: rotateZ(30deg);
+  transform: rotateZ(30deg);
+}
+@mixin zoom-image {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+@mixin intro {
+    text-align: center;
+    font-size: 1.6rem;
+    font-style:italic;
+    font-weight: 400;
+    margin-bottom: 75px;
+}
+@mixin intro-light {
+    text-align: center;
+    font-size: 1.6rem;
+    font-style:italic;
+    font-weight: 400;
+    margin-bottom: 75px;
+    color:$white
+}
+
