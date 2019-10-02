@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.scss';
 import Main from './components/main';
+import Landing from './components/landingpage';
 import {Link} from 'react-router-dom';
 
 
@@ -36,7 +37,7 @@ class App extends Component {
       </div>{/*end nav-container*/}
     </header>
 
-    <Main/>
+   
     <Landing/>
     <footer>
       <div class="wrapper">
