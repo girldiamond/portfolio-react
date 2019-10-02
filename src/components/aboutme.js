@@ -15,11 +15,12 @@ class About extends Component {
 	        </div>
 	        <div className="info-me">
 	        	<h1 className="hi">HELLO !</h1>
-		        <p>I'm Carolina, Web developer and designer from Costa Rica.
+		        <p>I’m an innovative Web Developer and Designer from Costa Rica. 
 		        I have a degree in web design and development from Cenfotec university. 
-		        I’ve been trained on a number of different technologies. 
-		        I have rich experience in web site design and building and customization. 
-		        I love to talk with you about our unique.</p>
+						Every day I often try to keep myself up-to-date with the new technologies. 
+						I truly enjoy excelling and pushing myself.
+						I'm Currently available for work. If  you'd like to discuss then please <a href="#contact">contact me</a>.
+						</p>
 						<ul className="info-ul">
 						  <li><span className="icon"><i class="fas fa-lg fa-laptop-code"></i></span>I'm a person who never gives up and works hard.</li>
 						  <li><span className="icon"><i class="fas fa-lg fa-code"></i></span>I'm ready to adapt to any current and future technology.</li>

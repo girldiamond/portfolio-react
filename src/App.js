@@ -27,7 +27,7 @@ class App extends Component {
         </label>
         <input type="checkbox" id="show-menu" role="button"/>
 	        <ul id="menu" className="ul">
-	          <li><a href="#home">Landing</a></li>
+	          <li><a href="#home">Home</a></li>
 	          <li><a href="#about">About</a></li>
 	          <li><a href="#services">What I Do</a></li>
 	          <li><a href="#projects">Projects</a></li>
@@ -42,8 +42,6 @@ class App extends Component {
     <footer>
       <div class="wrapper">
         <p>copyright © Carolina Azofeifa Chinchilla 2019.</p>
-        <p id="output"></p>
-        
       </div>
     </footer>
     </div>

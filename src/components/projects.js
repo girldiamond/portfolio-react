@@ -90,7 +90,7 @@ class Projects extends Component {
 		              className="react-img"
 		              />
 							    <div className="overlay">
-								    <a href="https://en.wikipedia.org/wiki/Mario" target = "_blank" className="icon-folio" title="User Profile">
+								    <a href="https://girldiamond.github.io/portfolio-react/" target = "_blank" className="icon-folio" title="User Profile">
 									    <i class="fas fa-link"></i>
 									  </a>
 								  </div>
