@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.799117a9.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.6196b5d9.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.6196b5d9.chunk.js.map",
+    "runtime~main.js": "/portfolio-react/static/js/runtime~main.72b3206a.js",
+    "runtime~main.js.map": "/portfolio-react/static/js/runtime~main.72b3206a.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/portfolio-react/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.75ca3987.chunk.js": "/portfolio-react/static/js/2.75ca3987.chunk.js",
+    "static/js/2.75ca3987.chunk.js.map": "/portfolio-react/static/js/2.75ca3987.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "precache-manifest.1c2066b3d71a4df1c6934b381f74753e.js": "/portfolio-react/precache-manifest.1c2066b3d71a4df1c6934b381f74753e.js",
+    "service-worker.js": "/portfolio-react/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/portfolio-react/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.799117a9.chunk.css.map": "/portfolio-react/static/css/main.799117a9.chunk.css.map",
+    "static/media/astronomy.jpg": "/portfolio-react/static/media/astronomy.b164411e.jpg",
+    "static/media/backOne.jpg": "/portfolio-react/static/media/backOne.6f37d5f1.jpg",
+    "static/media/carolinaAzofeifaChinchilla.pdf": "/portfolio-react/static/media/carolinaAzofeifaChinchilla.a4c5d436.pdf",
+    "static/media/creativio.jpg": "/portfolio-react/static/media/creativio.3a554e81.jpg",
+    "static/media/foto1.gif": "/portfolio-react/static/media/foto1.53951b8a.gif",
+    "static/media/foto2.jpg": "/portfolio-react/static/media/foto2.4980c7b8.jpg",
+    "static/media/foto3.jpg": "/portfolio-react/static/media/foto3.6b663ddb.jpg",
+    "static/media/foto4.jpg": "/portfolio-react/static/media/foto4.dd0d7f4d.jpg",
+    "static/media/foto5.jpg": "/portfolio-react/static/media/foto5.ca57c56f.jpg",
+    "static/media/foto6.jpg": "/portfolio-react/static/media/foto6.28d923ed.jpg",
+    "static/media/foto7.png": "/portfolio-react/static/media/foto7.0d5b5516.png",
+    "static/media/foto8.jpg": "/portfolio-react/static/media/foto8.d38180e9.jpg",
+    "static/media/App.scss": "/portfolio-react/static/media/header3.d3adf02f.jpg",
+    "static/media/me.png": "/portfolio-react/static/media/me.7ace9938.png",
+    "static/media/me5.png": "/portfolio-react/static/media/me5.1f654cd7.png",
+    "static/media/reactimg.png": "/portfolio-react/static/media/reactimg.7b994549.png"
+  }
+}
