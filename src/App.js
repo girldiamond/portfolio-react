@@ -37,6 +37,7 @@ class App extends Component {
     </header>
 
     <Main/>
+    <Landing/>
     <footer>
       <div class="wrapper">
         <p>copyright © Carolina Azofeifa Chinchilla 2019.</p>
